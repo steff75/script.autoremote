@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="General">
+		<setting label="Receiver" type="lsep"/>
+        <setting label="Key" type="text"   id="key" default=""/>
+		<setting label="Message" type="text"   id="message" default="test"/>
+		<setting type="sep"/>
+        <setting label="Message validity time in seconds (optional)" type="number"   id="ttl" default="90000"/>
+		<setting label="Password (optional)" type="text"   id="password" option="hidden" default=""/>
+		<setting label="Message Group (optional)" type="text"   id="group" default=""/>
+		<setting label="Target (optional)" type="text"   id="target" default=""/>
+        <setting label="Sender" type="lsep"/>
+        <setting label="Sender (optional)" type="text" id="sender" default="Kodi"/>
+    </category>
+</settings>
