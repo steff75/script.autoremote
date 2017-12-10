@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.autoremote" name="AutoRemote" version="1.0.0" provider-name="st3ff">
+<addon id="script.autoremote" name="AutoRemote" version="1.2.0" provider-name="st3ff">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -10,7 +10,7 @@
 		<platform>all</platform>
 		<summary lang="en">AutoRemote Sender</summary>
 		<description lang="en">Send messages to an AutoRemote receiver</description>
-		<license></license>
+		<license>GNU General Public License, v2</license>
 		<language></language>
 		<forum></forum>
 		<source></source>
