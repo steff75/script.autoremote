@@ -15,7 +15,7 @@
 		<setting label="Message" type="text"   id="message" default="test"/>
 		<setting label="Message (with additional user input)" type="lsep"/>
 		<setting label="Message" type="text"   id="messagewheninput" default="test"/>
-		<setting label="Splitter between Message and Input" type="text" id="splitter" subsetting="true" default="=;="/>
+		<setting label="Splitter between Message and Input" type="text" id="splitter" subsetting="true" default="=:="/>
     </category>
 	<category label="Optional">
 		<setting label="Optional Message Settings" type="lsep"/>
